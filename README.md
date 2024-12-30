@@ -15,5 +15,5 @@
 5. 打开掘金首页，点击右上角的拓展图标，即可看到效果
 
 <div align="center">    
-  <img src="./docs/images/popup.png" width ="60%"  align="center"/>
+  <img src="./docs/images/popup.png" width ="45%"  align="center"/>
 </div>
